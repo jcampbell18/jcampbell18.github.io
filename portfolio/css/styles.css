@@ -408,17 +408,17 @@ section#contact form input {
 
 section#contact form textarea {
     padding: 1em;
+    border-radius: 5px;
 }
 
-section#contact button {
-    width: 35%;
-    height: 4em;
+section#contact input[type="submit"] {
     margin: 0 auto;
     border: 0;
     border-radius: 20px;
-    padding: 0;  
+    padding: 1.4em 1.4em 2.4em 1.4em;  
     background: var(--secondary-color);
     color: white;
+    text-align: center;
 }
 
 
