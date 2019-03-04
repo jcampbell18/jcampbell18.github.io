@@ -215,12 +215,12 @@
                 </div>
                 <h5 class="tertiary">Questions?</h5>
                 <h5 class="tertiary">send me a message</h5>
-                <form action="">
+                <form action="https://formspree.io/jcampbell18@eagles.ewu.edi" method="POST">
                     <input type="text" id="full_name" class="" name="full_name" placeholder="full name"/>
                     <input type="email" id="email" class="" name="email" placeholder="email"/>
-                    <input type="text" id="subject" class="" name="subject" placeholder="subject"/>
+                    <input type="hidden" name="_subject" value="Someone has sent you a message [formspree]" />
                     <textarea id="message" class="multi-line" name="message" placeholder="message" cols="30" rows="5"></textarea>
-                    <button type="button" id="submit">send me a message</button>
+                    <input type="submit" id="submit" value="send me a message"/>
                 </form>
             </section>
 
