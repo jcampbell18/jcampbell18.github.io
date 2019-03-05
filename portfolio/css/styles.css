@@ -8,6 +8,9 @@
 /* Diagnostic Styling */
 body {
     background: #666;
+    margin: 0;
+    border: 0;
+    padding: 0;
 }
 
 @font-face {
@@ -51,10 +54,13 @@ p {
     font-size: 1em;
 }
 
+/* Container */
 div#container {
     background: var(--primary-color);
-    /* width: 85%; */
+    width: 100%;
     margin: 0 auto;
+    border: 0;
+    padding: 0;
 }
 
 
@@ -97,7 +103,7 @@ header h3 {
 
 /***** NAV *****/
 nav {
-    height: 233px;
+    height: 25%;
     margin: 0;
     padding: 0;
     border: 0;
@@ -308,6 +314,37 @@ section#testimonials h4 {
     border: 0;
 }
 
+div#testimonial_boxes {
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: end;
+    position: relative;
+}
+
+svg.plain_box {
+    transform: scale(0.50);
+    z-index: 0;
+}
+
+svg.plain_box .cls-1 {
+    fill:#e1e2e2;
+}
+
+svg#highlight_box {
+    transform: scale(0.40);
+    position: absolute;
+    bottom: -10%;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+svg#highlight_box .cls-2 {
+    fill:#fb8122;
+}
+
 
 /* Contact */
 section#contact {
@@ -324,6 +361,10 @@ section#contact .tertiary {
 
 section#contact h2, section#contact h5 {
     color: var(--secondary-color);
+}
+
+section#contact h4 {
+    margin-bottom: 3em;
 }
 
 section#contact h4, section#contact p {
