@@ -345,6 +345,65 @@ svg#highlight_box .cls-2 {
     fill:#fb8122;
 }
 
+div#testimonial_boxes h5 {
+    margin: 1em 0 0 0;
+}
+
+div#testimonial_boxes p {
+    margin: 0.5em 0 0 0;
+}
+
+div#testimonial_boxes p.quote {
+    color: black;
+    width: 50%;
+    text-align: center;
+}
+
+div#testimonial_boxes #left {
+    position: absolute;
+    bottom: -5%;
+    left: 15%;
+    z-index: 3;
+    color: var(--tertiary-color);
+    text-align: center;
+}
+
+div#testimonial_boxes #left img {
+    width: 40%;
+    margin: 0 auto;
+    clip-path: circle(40% at 40% 60%);
+}
+
+div#testimonial_boxes #mid {
+    position: absolute;
+    top: 48%;
+    left: 39.5%;
+    z-index: 3;
+    color: var(--tertiary-color);
+    text-align: center;
+}
+
+div#testimonial_boxes #mid img {
+    width: 40%;
+    margin: 0 auto;
+    clip-path: circle(40% at 40% 60%);
+}
+
+div#testimonial_boxes #right {
+    position: absolute;
+    bottom: -5%;
+    right: 15%;
+    z-index: 3;
+    color: var(--tertiary-color);
+    text-align: center;
+}
+
+div#testimonial_boxes #right img {
+    width: 40%;
+    margin: 0 auto;
+    clip-path: circle(40% at 40% 60%);
+}
+
 
 /* Contact */
 section#contact {
