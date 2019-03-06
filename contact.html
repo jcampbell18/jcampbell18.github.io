@@ -45,9 +45,16 @@
             <input type="text" name="name" placeholder="john doe"/>
         </label>
 
-        <label for="name">Email
+        <label for="email">Email
             <input type="email" name="_replyto" placeholder="abc@def.com"/>
         </label>
+
+        <label for="comments">comments
+            <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+        </label>
+
+        <input type="hidden" name="_subject" value="Someone is messaging you from your website!" />
+        <input type="hidden" name="_next" value="/index.html"/>
 
         <input type="submit" value="Send">
 
