@@ -5,10 +5,15 @@
     --tertiary-color: #E1E2E2;
 }
 
+/* HTML */
+html {
+    min-height: 100%;
+}
+
 /* Diagnostic Styling */
 body {
     width: 100%;
-    background: red;
+    background: var(--primary-color);
     margin: 0;
     border: 0;
     padding: 0;
@@ -66,8 +71,9 @@ div#container {
     margin: 0 auto;
     border: 0;
     padding: 0;
+
     display: grid;
-    grid-template-rows: 2fr 5fr 1fr;
+    grid-template-rows: 4fr 8fr 1fr;
 }
 
 
@@ -75,8 +81,7 @@ div#container {
 header {
     grid-row: 1;
     width: 100%;
-    /* height: 783px; */
-    height: 100vh;
+    height: auto;
     margin: 0;
     padding: 0;
     border: 0;
@@ -168,22 +173,21 @@ main {
 }
 
 section {
-    width: 100%;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
     background: var(--primary-color);
-    margin: 0;
     border: 0;
     padding: 0;
-    height: 100%;
 }
 
 
 /* Services */
 section#services {
-    width: 100%;
     background: var(--tertiary-color);
-    text-align: center;
+
     display: grid;
-    grid-template-rows: 3fr repeat(10, 1fr);
+    grid-template-rows: 3fr repeat(10, 1fr) 2fr;
     grid-template-columns: 1fr 1fr;
     justify-items: center;
     align-items: center;
@@ -196,10 +200,14 @@ section#services h2 {
     margin-top: 2em;
 }
 
-section#services p {
-    width: 75%; /* 54ch */
-    line-height: 1.5em;
+section#services h5 {
+    margin: 0;
+}
 
+section#services p {
+    width: 75%;
+    line-height: 1.5em;
+    margin: 0;
 }
 
 section#services .col1 {
@@ -273,9 +281,6 @@ section#services svg.icon {
 
 /* Gallery */
 section#gallery {
-    width: 100%;
-    margin: 0 auto;
-    text-align: center;
     padding: 3em 0;
     border: 0;
 }
@@ -309,11 +314,8 @@ section#gallery a .zoom-icon {
 
 /* Testimonials */
 section#testimonials {
-    width: 100%;
-    margin: 0 auto;
     padding: 0;
     border: 0;
-    text-align: center;
 }
 
 section#testimonials h2 {
@@ -420,15 +422,16 @@ div#testimonial_boxes #right img {
 
 /* Contact */
 section#contact {
-    width: 100%;
-    margin: 0 auto;
     border: 0;
     padding: 3em 0 0 0;
-    text-align: center;
 }
 
 section#contact .tertiary {
     color: white;
+}
+
+section#contact h2 {
+    margin-top: 1em;
 }
 
 section#contact h2, section#contact h5 {
@@ -541,14 +544,15 @@ footer {
     grid-row: 3;
     width: 100%;
     margin: 0 auto;
+    padding: 0;
+    border: 0;
     background: var(--primary-color);
     text-align: center;
-    padding: 3.0em 0;
-    border: 0;
 }
 
 footer h3 {
     color: var(--secondary-color);
+    margin-top: 2em;
 }
 
 footer img {
@@ -558,7 +562,10 @@ footer img {
 footer ul {
     width: 30%;
     margin: 0 auto;
+    padding: 0;
+    border: 0;
     list-style: none;
+
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     justify-content: center;
@@ -577,6 +584,14 @@ footer ul {
     }
 
     div#title {
-        margin-top: 50em;
+        /* width: 10ch; */
+        width: 100%;
+        text-align: center;
+        position: static;
+    }
+
+    section#gallery a img {
+        width: 85%;
+        height: auto;
     }
 }
