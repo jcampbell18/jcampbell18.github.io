@@ -258,12 +258,12 @@ section#services .row12 {
     grid-row: 12;
 }
 
-section#services svg#divider {
+section#services svg.divider {
     width: 25%;
     height: 4px;
 }
 
-section#services svg#divider .cls-1 {
+section#services svg.divider .cls-1 {
     fill: #1d2228;
 }
 
