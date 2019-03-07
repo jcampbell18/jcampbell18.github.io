@@ -21,10 +21,12 @@
 
 <!-- Normalize CSS via CDN -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
+
 <!-- Required Plugin Stylesheets -->    
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.12/css/lightgallery.css"/> -->
-    <link rel="stylesheet" href="css/lightgallery.min.css"/>
-    <link rel="stylesheet" href="css/lg-transitions.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.12/css/lightgallery.css"/>
+    <!-- <link rel="stylesheet" href="css/lightgallery.min.css"/>
+    <link rel="stylesheet" href="css/lg-transitions.min.css"/> -->
+
 <!-- My Awesome Styling -->
     <link rel="stylesheet" href="css/styles.css"/>
 
@@ -40,12 +42,12 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="#">
+                        <a href="#services">
                             <h4>services</h4>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#gallery">
                             <h4>gallery</h4>
                         </a>
                     </li>
@@ -56,12 +58,12 @@
                         </svg>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#testimonials">
                             <h4>testimonials</h4>
                         </a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="#contact">
                             <h4>contact</h4>
                         </a>
                     </li>
@@ -72,10 +74,11 @@
                 <h2>developer, designer, student</h2>
             </div>
         </header>
+        
         <main>
 <!-- Services -->
             <section id="services">
-                <h2>Services</h2>
+                <h2>services</h2>
 <!-- Services: Develop -->
                     <svg class="col1 row2 icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                         <path d="M22 6v16h-20v-16h20zm2-6h-24v24h24v-24zm-11 11v1.649l3.229 1.351-3.229 1.347v1.653l5-2.201v-1.599l-5-2.2zm-7 2.201v1.599l5 2.2v-1.653l-3.229-1.347 3.229-1.351v-1.649l-5 2.201z"/>
@@ -145,11 +148,10 @@
                     </svg>
 
                     <div class="row12"></div>
-                </div> 
             </section>
 <!-- Gallery -->
             <section id="gallery">
-                <h2>Gallery</h2>
+                <h2>gallery</h2>
                 <div id="lightgallery" class="gallery-width">
                     <a href="img/img1.jpg">
                         <img src="img/thumb1.jpg" alt="img1"/>
@@ -186,7 +188,7 @@
 <!-- Testimonials -->
             <section id="testimonials">
                 <h4>see what people are saying!</h4>
-                <h2>Testimonials</h2>
+                <h2>testimonials</h2>
                 <div id="testimonial_boxes">
 
                     <svg class="plain_box" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 417 226">                       
@@ -258,13 +260,13 @@
                         <p class="col5 row3">jcampbell18@eagles.ewu.edu</p>
 
                 </div>
-                <h5 class="tertiary">Questions?</h5>
+                <h5 class="tertiary">questions?</h5>
                 <h5 class="tertiary">send me a message</h5>
                 <form action="https://formspree.io/jcampbell18@eagles.ewu.edi" method="POST">
                     <input type="text" id="full_name" class="" name="full_name" placeholder="full name"/>
                     <input type="email" id="email" class="" name="email" placeholder="email"/>
                     <input type="hidden" name="_subject" value="Someone has sent you a message [formspree]" />
-                    <textarea id="message" class="multi-line" name="message" placeholder="message" cols="30" rows="5"></textarea>
+                    <textarea id="message" class="multi-line" name="message" placeholder="message" cols="30" rows="10"></textarea>
                     <input type="submit" id="submit" value="send me a message"/>
                 </form>
             </section>
