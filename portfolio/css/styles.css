@@ -7,18 +7,23 @@
 
 /* Diagnostic Styling */
 body {
-    background: #666;
+    width: 100%;
+    background: red;
     margin: 0;
     border: 0;
     padding: 0;
 }
 
+
+/***** FONTS *****/
 @font-face {
     font-family: "RageItalic";
     src: url(../font/RAGE.woff) format("woff"),
          url(../font/RAGE.ttf) format("truetype");
 }
 
+
+/***** Atomic Elements *****/
 a, a:visited, a:link, a:hover {
     text-decoration: none;
 }
@@ -61,13 +66,17 @@ div#container {
     margin: 0 auto;
     border: 0;
     padding: 0;
+    display: grid;
+    grid-template-rows: 2fr 5fr 1fr;
 }
 
 
 /***** HEADER *****/
 header {
+    grid-row: 1;
     width: 100%;
-    height: 783px;
+    /* height: 783px; */
+    height: 100vh;
     margin: 0;
     padding: 0;
     border: 0;
@@ -106,7 +115,7 @@ nav {
     height: 25%;
     margin: 0;
     padding: 0;
-    border: 0;
+    border: 1px solid var(--primary-color);
     color: var(--secondary-color);
     background: var(--primary-color);
     opacity: 0.75;
@@ -152,10 +161,14 @@ svg#JC .st2 {
 
 /***** MAIN *****/
 main {
+    grid-row: 2;
+    width: 100%;
+    margin: 0 auto;
     background: var(--primary-color);
 }
 
 section {
+    width: 100%;
     background: var(--primary-color);
     margin: 0;
     border: 0;
@@ -492,8 +505,9 @@ section#contact form {
     height: 500px;
     margin: 0 auto;
     display: grid;
-    grid-template-rows: repeat(5, 1fr);
-    grid-row-gap: 20px;
+    grid-template-rows: 1fr 1fr 3fr 1fr;
+    grid-row-gap: 1em;
+    align-items: center;
 }
 
 section#contact form input {
@@ -524,11 +538,13 @@ section#contact input[type="submit"] {
 
 /***** FOOTER *****/
 footer {
+    grid-row: 3;
     width: 100%;
     margin: 0 auto;
     background: var(--primary-color);
     text-align: center;
     padding: 3.0em 0;
+    border: 0;
 }
 
 footer h3 {
@@ -545,5 +561,22 @@ footer ul {
     list-style: none;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/***** MEDIA *****/
+@media (max-width: 720px) {
+    nav {
+        height: 100%;
+    }
+    
+    nav ul {
+        display: block;
+    }
+
+    div#title {
+        margin-top: 50em;
+    }
 }
