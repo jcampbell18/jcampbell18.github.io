@@ -513,6 +513,21 @@ section#contact div#contact-me h5 {
     padding: 0;
 }
 
+section#contact div#contact-me a,
+section#contact div#contact-me a:link,
+section#contact div#contact-me a:visited,
+section#contact div#contact-me a:hover  {
+    color: white;
+    text-decoration: none;
+
+}
+
+section#contact div#contact-me address {
+    color: var(--tertiary-color);
+    text-decoration: none;
+    margin-bottom: 1em;
+}
+
 section#contact form {
     width: 60%;
     height: 500px;
@@ -590,7 +605,7 @@ footer ul {
     }
 
     nav {
-        height: 40%;
+        height: 48%;
     }
     
     nav ul {
@@ -603,13 +618,69 @@ footer ul {
         text-align: center;
         position: static;
     }
-
+/* Services 
     section#services {
-        /* grid-template-columns: 1fr; */
-    }
-
+        display: grid;
+        grid-template-rows: repeat(4, 1fr) 2fr repeat(4, 1fr) 2fr 1fr;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+        align-items: center;
+    }*/
+/* Gallery */
     section#gallery a img {
         width: 85%;
         height: auto;
     }
+
+/* Testimonials */
+
+
+
+/* Contact */
+    section#contact div#contact-me {
+        width: 85%;
+        margin: 0 auto;
+        padding: 0;
+        border: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    section#contact div#contact-me .row1 { }
+
+    section#contact div#contact-me .row2 { }
+
+    section#contact div#contact-me .row3 { }
+
+    section#contact div#contact-me .col1 { }
+
+    section#contact div#contact-me .col2 { }
+
+    section#contact div#contact-me .col3 { }
+
+    section#contact div#contact-me .col4 { }
+
+    section#contact div#contact-me .col5 { }
+
+    section#contact div#contact-me svg {
+        margin: 0.4em 0 1em 0;
+        border: 0;
+        padding: 0;
+    }
+
+    section#contact div#contact-me h5 {
+        margin: 1em 0 0.5em 0;
+        border: 0;
+        padding: 0;
+    }
+
+    section#contact div#contact-me p,
+    section#contact div#contact-me address {
+        margin: 0 0 2em 0;
+        border: 0;
+        padding: 0;
+    }
+
 }
