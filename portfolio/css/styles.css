@@ -300,6 +300,42 @@ section#gallery a img {
     height: auto;
     position: relative;
 }
+
+section#gallery a img#img1 {
+
+}
+
+section#gallery a img#img2 {
+    
+}
+
+section#gallery a img#img3 {
+    
+}
+
+section#gallery a img#img4 {
+    
+}
+
+section#gallery a img#img5 {
+    
+}
+
+section#gallery a img#img6 {
+    
+}
+
+section#gallery a img#img7 {
+    
+}
+
+section#gallery a img#img8 {
+    
+}
+
+section#gallery a img#img9 {
+    
+}
 /* 
 NOTE: Need to do hover in js/jquery to show magnifying glass
 section#gallery a .zoom-icon {
@@ -725,19 +761,15 @@ footer ul {
         text-align: center;
         position: static;
     }
-/* Services 
-    section#services {
-        display: grid;
-        grid-template-rows: repeat(4, 1fr) 2fr repeat(4, 1fr) 2fr 1fr;
-        grid-template-columns: 1fr 1fr;
-        justify-items: center;
-        align-items: center;
-    }*/
+
+
 /* Gallery */
     section#gallery a img {
         width: 85%;
         height: auto;
     }
+
+    
 
 /* Testimonials */
     div#testimonial_boxes {
