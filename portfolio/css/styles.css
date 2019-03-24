@@ -782,6 +782,10 @@ footer p {
         width: 100%;
         height: auto;
     }
+
+    section#gallery div.gallery-width a img.gallery-img:hover {
+        background: black;
+    }
     
     section#gallery a#img1 {
         grid-row: 1;
@@ -853,6 +857,10 @@ footer p {
     
         background: url('../img/ugandajones.jpg') no-repeat;
         background-size: cover;
+    }
+
+    section#gallery div.gallery-width img:hover {
+        background-color: rgba(0, 0, 0, 1.0);
     }
 
     
