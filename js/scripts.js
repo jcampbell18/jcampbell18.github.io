@@ -1,5 +1,5 @@
-// Everything OK?
-console.log('OK');
+// Console
+console.log('What is the Matrix?');
 
 // Output Current Year
 $('.currentYear').text( (new Date).getFullYear() );
