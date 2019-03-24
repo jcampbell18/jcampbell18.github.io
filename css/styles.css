@@ -729,7 +729,7 @@ footer p {
 
 
 /***** MEDIA *****/
-@media (max-width: 720px) {
+@media (max-width: 720px) and (min-width: 270px) {
 
 /* Container */
     #container {
