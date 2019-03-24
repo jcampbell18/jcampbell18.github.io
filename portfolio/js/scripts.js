@@ -7,7 +7,7 @@ $('.currentYear').text( (new Date).getFullYear() );
 
 // lightGallery
 $('#lightgallery').lightGallery({
-    thumbnail: true,
+    thumbnail: false,
     fullScreen: true,
     animateThumb: false,
     showThumbByDefault: false,
