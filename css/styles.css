@@ -82,7 +82,6 @@ header {
     background: url("../img/laptop.jpg") no-repeat;
     background-color: var(--primary-color);
     background-blend-mode: multiply;
-    /* background-size: 100% 100%; */
     background-size: center center cover;
 
     display: grid;
@@ -1079,4 +1078,52 @@ footer p {
         padding: 0;
     }
 
+}
+
+
+/***** 404 *****/
+div#container-404 {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    background: url("../img/laptop.jpg") no-repeat;
+    background-color: var(--primary-color);
+    background-blend-mode: multiply;
+    background-size: center center cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div#container-404 a,
+div#container-404 a:link,
+div#container-404 a:visited,
+div#container-404 a:hover {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+div#container-404 section#section-404 {
+    background: white;
+    text-align: center;
+    padding: 1.0em;
+}
+
+div#container-404 section#section-404 h1 {
+    font-size: 6em;
+    color: var(--secondary-color);
+    text-shadow: 2px 2px 2px var(--primary-color);
+    margin-top: 1em;
+}
+
+div#container-404 section#section-404 p{
+    color: black;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+div#container-404 section#section-404 p#end-404 {
+    margin-bottom: 2em;
 }
