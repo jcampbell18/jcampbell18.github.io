@@ -1,4 +1,4 @@
-# Portfolio
+# My Portfolio
 Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 
 ## Dependencies
@@ -7,3 +7,5 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 * [Light Gallery](https://sachinchoolur.github.io/lightGallery/)
 * [Light Gallery Plugin: Zoom](https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/modules/lg-zoom.min.js)
 * [Light Gallery Plugin: FullScreen](https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/modules/lg-fullscreen.min.js)
+* [AnimateCSS](https://daneden.github.io/animate.css/)
+* [AnimateCSS jQuery Plugin](https://github.com/craigmdennis/animateCSS)
