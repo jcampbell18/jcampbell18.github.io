@@ -82,16 +82,18 @@ header {
     background: url("../img/laptop.jpg") no-repeat;
     background-color: var(--primary-color);
     background-blend-mode: multiply;
-    background-size: 100% 100%;
+    /* background-size: 100% 100%; */
+    background-size: center center cover;
 
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 2fr 3fr;
     justify-items: center;
     align-items: center;
 }
 
 header div#title {
     text-align: center;
+    margin-bottom: 3em;
 }
 
 header div#title h2 {
@@ -716,6 +718,13 @@ footer ul {
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
     align-items: center;
+}
+
+footer p {
+    text-align: center;
+    color: var(--tertiary-color);
+    padding: 1.0em 0;
+    font-size: 0.8em;
 }
 
 
