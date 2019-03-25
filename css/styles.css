@@ -782,10 +782,6 @@ footer p {
         height: auto;
     }
 
-    section#gallery div.gallery-width a img.gallery-img:hover {
-        background: black;
-    }
-    
     section#gallery a#img1 {
         grid-row: 1;
         grid-column: 1;
