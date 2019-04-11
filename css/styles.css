@@ -254,6 +254,10 @@ section#gallery h4 a:visited {
     color: white;
 }
 
+section#gallery h4 a:hover {
+    color: var(--secondary-color);
+}
+
 section#gallery div.gallery-width {
     width: 96%;
     margin: 0 auto;
