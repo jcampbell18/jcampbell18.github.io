@@ -243,6 +243,17 @@ section#gallery h2 {
     padding-bottom: 1.4em;
 }
 
+section#gallery h4 {
+    color: white;
+}
+
+section#gallery h4 a,
+section#gallery h4 a:link,
+section#gallery h4 a:hover,
+section#gallery h4 a:visited {
+    color: white;
+}
+
 section#gallery div.gallery-width {
     width: 96%;
     margin: 0 auto;
