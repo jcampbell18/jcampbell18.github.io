@@ -10,9 +10,9 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 * [AnimateCSS](https://daneden.github.io/animate.css/)
 * [AnimateCSS jQuery Plugin](https://github.com/craigmdennis/animateCSS)
 
-### The Design Process
+## The Design Process
 
-#### Design System
+### Design System
 
 * Fonts
 * Color Palette
@@ -22,7 +22,7 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 
 ![Design System](https://jcampbell18.github.io/design/Design%20System.png "Design System")
 
-#### Remix
+### Remix
 
 * gathering sections of 6 different sites (i.e., pinterest)
 
@@ -33,15 +33,21 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 
 ![Desktop Working Layout](https://jcampbell18.github.io/design/Desktop%20-%20Working%20Layout.png "Desktop Working Layout")
 
-#### Wireframe
+### Wireframe
 
 * created wireframe according to new layout
 
 ![Desktop Template](https://jcampbell18.github.io/design/Desktop%20-%20Template.png "Desktop Template")
 
-#### Insert Content according to Design System
+### Mock-up
 
-* inserted images and text fillers
-* pre-final product
+* inserted values according to the Design System
+* inserted images and text fillers to produce inspired vision of pre-final product
 
 ![Desktop Pages](https://jcampbell18.github.io/design/Desktop%20-%20Pages.png "Desktop Pages")
+
+### Code
+
+* HTML5
+* CSS3
+* Javascript, jQuery
