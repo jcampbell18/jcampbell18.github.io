@@ -41,4 +41,7 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 
 #### Insert Content according to Design System
 
+* inserted images and text fillers
+* pre-final product
+
 ![Desktop Pages](https://jcampbell18.github.io/design/Desktop%20-%20Pages.png "Desktop Pages")
