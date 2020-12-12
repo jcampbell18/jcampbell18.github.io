@@ -141,11 +141,15 @@ ul.portfolio-categories {
     margin-bottom: 4.0em;
 }
 
-#portfolio ul li {
+ul.portfolio-categories li {
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
+}
+
+ul.portfolio-categories li img {
+    border: 1px solid var(--hex4);
 }
 
 /***** Section: Contact *****/
