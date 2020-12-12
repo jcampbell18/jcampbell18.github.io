@@ -1,53 +1,48 @@
 # My Portfolio
-Winter 2019 Web 2: Portfolio Project. In a DIY framework.
+
+A fresh update on my portfolio for potential employers
 
 ## Dependencies
-* [Normalize CSS](https://necolas.github.io/normalize.css/)
-* [jQuery Libary](https://jquery.com)
-* [Light Gallery](https://sachinchoolur.github.io/lightGallery/)
-* [Light Gallery Plugin: Zoom](https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/modules/lg-zoom.min.js)
-* [Light Gallery Plugin: FullScreen](https://cdn.jsdelivr.net/npm/lightgallery@1.6.12/modules/lg-fullscreen.min.js)
-* [AnimateCSS](https://daneden.github.io/animate.css/)
-* [AnimateCSS jQuery Plugin](https://github.com/craigmdennis/animateCSS)
+
+- [Normalize 8.0.1 CSS](https://necolas.github.io/normalize.css/)
+
+- [jQuery 3.5.1](https://jquery.com)
 
 ## The Design Process
 
 ### Design System
 
-* Fonts
-* Color Palette
-* Images
-* Icons
-* other misc.
+- Fonts
+    - Family: Roboto
+        - Light
+        - Regular
+        - Medium
+    - Sizing
+        - h1: 4.767em
+        - h2: 3.764em
+        - h3: 3.011em
+        - h4: 2.133em
+        - h5: 1.506em
+        - h6: 1.255em
+        -  p: 1.0em
 
-![Design System](https://jcampbell18.github.io/design/Design%20System.png "Design System")
-
-### Remix
-
-* gathering sections of 6 different sites (i.e., pinterest)
-
-![Source Images](https://jcampbell18.github.io/design/Source%20Images.png "Source Images")
-
-* each site contained something specific for my vision (header, nav, body, footer, etc.)
-* layed everything out according to those specifics
-
-![Desktop Working Layout](https://jcampbell18.github.io/design/Desktop%20-%20Working%20Layout.png "Desktop Working Layout")
-
-### Wireframe
-
-* created wireframe according to new layout
-
-![Desktop Template](https://jcampbell18.github.io/design/Desktop%20-%20Template.png "Desktop Template")
-
-### Mock-up
-
-* inserted values according to the Design System
-* inserted images and text fillers to produce inspired vision of pre-final product
-
-![Desktop Pages](https://jcampbell18.github.io/design/Desktop%20-%20Pages.png "Desktop Pages")
-
+- Color Palette
+    - #1A2238 (dark blue) --> rgb(26, 34, 56)
+    - #9DAAF2 (light blue) --> rgb(157, 170, 242)
+    - #FF3A3D (orange-red) --> rgb(255, 58, 61)
+    - #F4DB7D (light yellow) --> rgb(244, 219, 125)
 ### Code
 
-* HTML5
-* CSS3
-* Javascript, jQuery
+- HTML5
+- CSS3
+
+### Upcoming
+
+- incorporate animation with CSS3 and Javascript for nav
+    - fixed nav, and pointer above current area
+- incorporate animation with CSS3 and Javascript for header
+    - moving background
+    - moving shapes or icons
+- update links from portfolio section to github repositories
+    - requires restructing of github repositories
+- update image to Ruby on Rails project
