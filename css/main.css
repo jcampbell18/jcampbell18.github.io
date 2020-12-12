@@ -148,12 +148,8 @@ li.portfolio-category {
     align-items: center;
 }
 
-li.portfolio-category:nth-child(odd) img {
+li.portfolio-category img {
     border: 1px solid var(--hex4);
-}
-
-li.portfolio-category:nth-child(even) img {
-    border: 1px solid var(--hex3);
 }
 
 /***** Section: Contact *****/
