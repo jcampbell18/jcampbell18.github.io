@@ -213,11 +213,11 @@ ul#contact-by li svg {
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    align-content: center;
 }
 
 #social-media p {
-    padding-bottom: 1.0em;
+    text-align: center;
+    padding: 0 1.0em 1.0em 1.0em;
 }
 
 #social-media ul {
