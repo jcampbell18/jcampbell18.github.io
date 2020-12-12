@@ -148,11 +148,11 @@ li.portfolio-category {
     align-items: center;
 }
 
-li.portfolio-category img:nth-child(odd) {
+li.portfolio-category:nth-child(odd) img {
     border: 1px solid var(--hex4);
 }
 
-li.portfolio-category img:nth-child(even) {
+li.portfolio-category:nth-child(even) img {
     border: 1px solid var(--hex3);
 }
 
