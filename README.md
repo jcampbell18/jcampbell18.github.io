@@ -1,6 +1,9 @@
-# My Portfolio
+# My Portfolio (Version 2.0)
 
 A fresh update on my portfolio for potential employers
+
+- Previous Versions:
+    - [version 1.0](https://jcampbell18.github.io/version1/)
 
 ## Dependencies
 
@@ -27,10 +30,10 @@ A fresh update on my portfolio for potential employers
         -  p: 1.0em
 
 - Color Palette
-    - #1A2238 (dark blue) --> rgb(26, 34, 56)
-    - #9DAAF2 (light blue) --> rgb(157, 170, 242)
-    - #FF3A3D (orange-red) --> rgb(255, 58, 61)
-    - #F4DB7D (light yellow) --> rgb(244, 219, 125)
+    - #1A2238 (dark blue) → rgb(26, 34, 56)
+    - #9DAAF2 (light blue) → rgb(157, 170, 242)
+    - #FF3A3D (orange-red) → rgb(255, 58, 61)
+    - #F4DB7D (light yellow) → rgb(244, 219, 125)
 ### Code
 
 - HTML5
