@@ -49,3 +49,56 @@ A fresh update on my portfolio for potential employers
 - update links from portfolio section to github repositories
     - requires restructing of github repositories
 - update image to Ruby on Rails project
+
+## Project Links
+
+### Ruby on Rails
+
+- [Completed Online Courses (main area)](https://github.com/jcampbell18/rubyOnRails)
+- [Record Store with Vue.js as Front-end](https://github.com/jcampbell18/ror_recordstore)
+- []()
+
+### Java
+
+#### Eastern Washington University (EWU)
+
+- Senior Capstone - iNavig8: Indoor Navigation System, group collaboration
+    - [Documentation](https://github.com/javanada/teamfive-docs)
+    - [Back-end/API](https://github.com/javanada/api)
+    - [Front-end](https://github.com/javanada/web)
+    - [Mobile: Android](https://github.com/javanada/mobile-android)
+
+- Algorithms
+    - [CSCD 320](https://github.com/jcampbell18/CSCD320)
+
+### PHP
+
+
+### Python
+
+- [Python (main area)](https://github.com/jcampbell18/python)
+    - [Automation](https://github.com/jcampbell18/python/tree/master/automation)
+    - [NMap Parser](https://github.com/jcampbell18/python/tree/master/nmap_parser)
+
+### ReactJS
+
+
+### Web
+
+- [Movie Database Search](https://github.com/jcampbell18/moviesAPI)
+
+
+### C#
+
+#### Eastern Washington University (EWU)
+
+- [C# (main area)](https://github.com/jcampbell18/c-sharp)
+    - [Homework 0](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw0)
+    - [Homework 1](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw1)
+    - [Homework 2](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw2)
+    - [Midterm Project](https://github.com/jcampbell18/c-sharp/tree/master/campbelljmidterm)
+    - [Homework 4](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw4)
+    - [Final Project](https://github.com/jcampbell18/c-sharp/tree/master/campbelljproj2d)
+
+### UX
+
