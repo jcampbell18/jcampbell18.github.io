@@ -60,9 +60,11 @@ A fresh update on my portfolio for potential employers
 
 ### Java
 
+- [Java Multithreading](https://github.com/jcampbell18/java-multithreading)
+
 #### Eastern Washington University (EWU)
 
-- Senior Capstone - iNavig8: Indoor Navigation System, group collaboration
+- Senior Capstone - iNavig8: Indoor Navigation System, group collaboration (Jason Campbell, Valdyn Hunt, David Sergio and Naji)
     - [Documentation](https://github.com/javanada/teamfive-docs)
     - [Back-end/API](https://github.com/javanada/api)
     - [Front-end](https://github.com/javanada/web)
@@ -85,7 +87,8 @@ A fresh update on my portfolio for potential employers
 
 ### Web
 
-- [Movie Database Search](https://github.com/jcampbell18/moviesAPI)
+- [Previous Portfolio](https://jcampbell18.github.io/version1/)
+- [Movie Database Search API](https://github.com/jcampbell18/moviesAPI)
 
 
 ### C#
