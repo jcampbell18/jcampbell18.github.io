@@ -60,42 +60,55 @@ A fresh update on my portfolio for potential employers
 
 ### Java
 
-- [Java Multithreading](https://github.com/jcampbell18/java-multithreading)
+- [Java Multithreading](https://github.com/jcampbell18/java_multithreading)
 
 #### Eastern Washington University (EWU)
 
 - Senior Capstone - iNavig8: Indoor Navigation System, group collaboration (Jason Campbell, Valdyn Hunt, David Sergio and Naji)
     - [Documentation](https://github.com/javanada/teamfive-docs)
-    - [Back-end/API](https://github.com/javanada/api)
-    - [Front-end](https://github.com/javanada/web)
-    - [Mobile: Android](https://github.com/javanada/mobile-android)
+    - [Java: Back-end/API](https://github.com/javanada/api)
+    - [ReactJS: Front-end](https://github.com/javanada/web)
+    - [Android: Front-end (Mobile)](https://github.com/javanada/mobile-android)
 
 - Algorithms
-    - [CSCD 320](https://github.com/jcampbell18/CSCD320)
+    - [CSCD 320](https://github.com/jcampbell18/ewu_CSCD320)
+
+- Sotware Engineering
+    - [CSCD 350](https://github.com/jcampbell18/ewu_cscd350)
 
 ### PHP
 
+- [coming soon](#)
 
 ### Python
 
+- [Invoicing System](https://github.com/jcampbell18/py_invoicing)
 - [Python (main area)](https://github.com/jcampbell18/python)
     - [Automation](https://github.com/jcampbell18/python/tree/master/automation)
     - [NMap Parser](https://github.com/jcampbell18/python/tree/master/nmap_parser)
 
 ### ReactJS
 
+#### Eastern Washington University (EWU)
+
+- [Web Project 3](https://github.com/jcampbell18/reactjs_web3project)
+- Senior Capstone - iNavig8: Indoor Navigation System, group collaboration (Jason Campbell, Valdyn Hunt)
+    - [ReactJS: Front-end](https://github.com/javanada/web)
 
 ### Web
 
 - [Previous Portfolio](https://jcampbell18.github.io/version1/)
-- [Movie Database Search API](https://github.com/jcampbell18/moviesAPI)
+- [Movie Database Search API](https://github.com/jcampbell18/web_moviesAPI)
+- [Crossword Puzzel](https://github.com/jcampbell18/web_crossword-puzzle)
+- [Web Boilerplate](https://github.com/jcampbell18/web_web2-framework)
+- [PWA Boilerplate](https://github.com/jcampbell18/web_pwa-starter2)
 
 
 ### C#
 
 #### Eastern Washington University (EWU)
 
-- [C# (main area)](https://github.com/jcampbell18/c-sharp)
+- [CSCD371 C# (main area)](https://github.com/jcampbell18/c-sharp)
     - [Homework 0](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw0)
     - [Homework 1](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw1)
     - [Homework 2](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw2)
@@ -105,3 +118,4 @@ A fresh update on my portfolio for potential employers
 
 ### UX
 
+- [coming soon](#)
