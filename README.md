@@ -109,12 +109,12 @@ A fresh update on my portfolio for potential employers
 #### Eastern Washington University (EWU)
 
 - [CSCD371 C# (main area)](https://github.com/jcampbell18/c-sharp)
-    - [Homework 0](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw0)
-    - [Homework 1](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw1)
-    - [Homework 2](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw2)
-    - [Midterm Project](https://github.com/jcampbell18/c-sharp/tree/master/campbelljmidterm)
-    - [Homework 4](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw4)
-    - [Final Project](https://github.com/jcampbell18/c-sharp/tree/master/campbelljproj2d)
+    - [Homework 0: Console - Armstrong Numbers](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw0)
+    - [Homework 1: Console - Set Class](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw1)
+    - [Homework 2: Console - FileSystemWatcher](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw2)
+    - [Midterm Project: GUI - FileSystemWatcher](https://github.com/jcampbell18/c-sharp/tree/master/campbelljmidterm)
+    - [Homework 4: GUI - Ball and Paddle](https://github.com/jcampbell18/c-sharp/tree/master/campbelljcscd371hw4)
+    - [Final Project: GUI - Trivia Game](https://github.com/jcampbell18/c-sharp/tree/master/campbelljproj2d)
 
 ### UX
 
