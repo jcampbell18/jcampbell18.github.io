@@ -24,7 +24,7 @@ section h2 {
 
 /***** Section: About *****/
 #about {
-    background-image: url(../images/laptop.jpg);
+    background-image: url(../images/laptop.webp);
     background-color: rgba(26, 34, 56, 0.9);
     background-blend-mode: multiply;
 } 
