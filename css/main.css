@@ -150,6 +150,7 @@ li.portfolio-category {
 
 li.portfolio-category img {
     border: 1px solid var(--hex4);
+    border-radius: 12px;
 }
 
 /***** Section: Contact *****/
@@ -178,6 +179,7 @@ ul#contact-by {
 ul#contact-by li {
     width: 18.0em;
     border: 2px solid var(--hex1);
+    border-radius: 12px;
     background: white;
     padding: 1.0em;
     margin: 0.6em;
