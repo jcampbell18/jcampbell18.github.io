@@ -29,17 +29,23 @@ div#container {
 /* Typography */
 @font-face {
     font-family: 'Roboto-Light';
-    src: url('/fonts/Roboto-Light.ttf') format('truetype');
+    src: url('/fonts/Roboto-Light.ttf') format('truetype'),
+         url('/fonts/Roboto-Light.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Roboto-Regular';
-    src: url('/fonts/Roboto-Regular.ttf') format('truetype');
+    src: url('/fonts/Roboto-Regular.ttf') format('truetype'),
+         url('/fonts/Roboto-Regular.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Roboto-Medium';
-    src: url('/fonts/Roboto-Medium.ttf') format('truetype');
+    src: url('/fonts/Roboto-Medium.ttf') format('truetype'),
+         url('/fonts/Roboto-Medium.woff') format('woff');
+    font-display: swap;
 }
 
 h1,
