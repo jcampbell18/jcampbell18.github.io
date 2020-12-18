@@ -236,7 +236,12 @@ ul#contact-by li svg {
     padding: 0.4em 0;
 }
 
-#social-media ul li a img {
+#social-media ul li a img.icons {
     width: 64px;
     height: 64px;
+}
+
+#social-media ul li a img#linkedin-icon {
+    width: 64px;
+    height: 54.422px;
 }
