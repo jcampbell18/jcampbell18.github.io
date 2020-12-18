@@ -151,6 +151,8 @@ li.portfolio-category {
 li.portfolio-category img {
     border: 1px solid var(--hex4);
     border-radius: 12px;
+    width: 250px;
+    height: 250px;
 }
 
 /***** Section: Contact *****/
@@ -204,7 +206,7 @@ ul#contact-by li address {
 ul#contact-by li svg {
     fill: var(--hex1);
     width: 50px;
-    height: auto;
+    height: 50px;
 }
 
 /***** Section: Social Media *****/
@@ -236,5 +238,5 @@ ul#contact-by li svg {
 
 #social-media ul li a img {
     width: 64px;
-    height: auto;
+    height: 64px;
 }
