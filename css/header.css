@@ -19,6 +19,6 @@ header h1 {
 }
 
 header h5 {
-    color: var(--hex2);
+    color: rgba(26, 34, 56, 0.8);
     padding-top: 0.6em;
 }
