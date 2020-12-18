@@ -27,5 +27,5 @@ li.nav-link {
 }
 
 li.nav-link:hover {
-    color: rgba(157, 170, 242, 0.6);
+    color: var(--hex3);
 }
