@@ -101,18 +101,22 @@ li.skills-item h6 {
 
 .progress-bar-100 {
     width: 94%;
+    background: inherit;
 }
 
 .progress-bar-75 {
     width: 75%;
+    background: inherit;
 }
 
 .progress-bar-50 {
     width: 50%;
+    background: inherit;
 }
 
 .progress-bar-25 {
     width: 25%;
+    background: inherit;
 }
 
 
