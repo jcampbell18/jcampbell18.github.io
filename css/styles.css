@@ -29,7 +29,6 @@
     margin: 0;
     border: 0;
     padding: 0;
-
 }
 
 
@@ -72,6 +71,12 @@ h5 {
     font-family: 'Roboto-Regular', sans-serif;
 }
 
+h6 {
+    font-family: 'Roboto-Medium', sans-serif;
+    font-size: 1.255em;
+    padding: 0.3em 1.0em;
+}
+
 h1 {
     font-size: 4.767em;
 }
@@ -90,12 +95,6 @@ h4 {
 
 h5 {
     font-size: 1.506em;
-}
-
-h6 {
-    font-family: 'Roboto-Medium', sans-serif;
-    font-size: 1.255em;
-    padding: 0.3em 1.0em;
 }
 
 p,
