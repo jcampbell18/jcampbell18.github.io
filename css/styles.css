@@ -111,7 +111,6 @@ a, a:visited, a:link, a:hover {
     color: inherit;
 }
 
-
 /* Common */
 ul {
     list-style: none;
@@ -275,20 +274,12 @@ li.skills-item h6 {
     color: white;
     padding: 0.6em; 
     text-align: right; 
-    font-size: 1.2em; 
+    font-size: 1.125em; 
     border-radius: 20px;
 }
 
-.progress-bar-bg p {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    height: 45px;
-}
-
-li.skills-item div.progress-bar-area div.progress-bar-100 {
+.progress-bar-100 {
     width: 94%;
-    background-color: var(--hex3);
 }
 
 .progress-bar-75 {
