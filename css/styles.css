@@ -281,6 +281,7 @@ li.skills-item h6 {
 
 .progress-bar-100 {
     width: 94%;
+    background-color: var(--hex3);
 }
 
 .progress-bar-75 {
