@@ -271,7 +271,7 @@ li.skills-item h6 {
 .progress-bar-bg {
     width: 100%;
     background-color: var(--hex3);
-    color: white;
+    color: rgb(24, 33, 56);
     padding: 0.6em; 
     text-align: right; 
     font-size: 1.125em; 
