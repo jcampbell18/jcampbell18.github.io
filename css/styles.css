@@ -196,9 +196,6 @@ section h2 {
     height: 100%;
 }
 
-.pos-rel {
-    position: relative;
-}
 
 /***** Section: About *****/
 #about {
@@ -217,6 +214,7 @@ section h2 {
     padding: 4.0em;
 }
 
+
 /***** Section: Skills *****/
 #skills {
     display: flex;
@@ -225,7 +223,7 @@ section h2 {
     align-items: center;
 }
 
-p.skills-msg {
+p.skills-p {
     font-size: 1.0em;
     padding: 4.0em;
 }
