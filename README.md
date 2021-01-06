@@ -99,7 +99,7 @@ A fresh update on my portfolio for potential employers
 
 - [Previous Portfolio](https://jcampbell18.github.io/version1/)
 - [Movie Database Search API](https://github.com/jcampbell18/web_moviesAPI)
-- [Crossword Puzzel](https://github.com/jcampbell18/web_crossword-puzzle)
+- [Crossword Puzzle](https://github.com/jcampbell18/web_crossword-puzzle)
 - [Web Boilerplate](https://github.com/jcampbell18/web_web2-framework)
 - [PWA Boilerplate](https://github.com/jcampbell18/web_pwa-starter2)
 
