@@ -46,9 +46,7 @@ A fresh update on my portfolio for potential employers
 - incorporate animation with CSS3 and Javascript for header
     - moving background
     - moving shapes or icons
-- update links from portfolio section to github repositories
-    - requires restructing of github repositories
-- update image to Ruby on Rails project
+- update image to Ruby on Rails project on project completion
 
 ## Project Links
 
