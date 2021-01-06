@@ -54,7 +54,7 @@ A fresh update on my portfolio for potential employers
 
 - [Completed Online Courses (main area)](https://github.com/jcampbell18/rubyOnRails)
 - [Record Store with Vue.js as Front-end](https://github.com/jcampbell18/ror_recordstore)
-- []()
+    - issues with TailWindCSS, temporarily removed CSS
 
 ### Java
 
@@ -76,7 +76,9 @@ A fresh update on my portfolio for potential employers
 
 ### PHP
 
-- [coming soon](#)
+- [STA Bus Schedule](https://github.com/jcampbell18/php_STA_schedule)
+
+- [Invoicing Project (Original)](https://github.com/jcampbell18/php_invoicing-old)
 
 ### Python
 
