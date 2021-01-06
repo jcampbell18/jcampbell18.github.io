@@ -20,31 +20,31 @@ Winter 2019 Web 2: Portfolio Project. In a DIY framework.
 * Icons
 * other misc.
 
-![Design System](https://jcampbell18.github.io/design/Design%20System.png "Design System")
+![Design System](https://jcampbell18.github.io/version1/design/Design%20System.png "Design System")
 
 ### Remix
 
 * gathering sections of 6 different sites (i.e., pinterest)
 
-![Source Images](https://jcampbell18.github.io/design/Source%20Images.png "Source Images")
+![Source Images](https://jcampbell18.github.io/version1/design/Source%20Images.png "Source Images")
 
 * each site contained something specific for my vision (header, nav, body, footer, etc.)
 * layed everything out according to those specifics
 
-![Desktop Working Layout](https://jcampbell18.github.io/design/Desktop%20-%20Working%20Layout.png "Desktop Working Layout")
+![Desktop Working Layout](https://jcampbell18.github.io/version1/design/Desktop%20-%20Working%20Layout.png "Desktop Working Layout")
 
 ### Wireframe
 
 * created wireframe according to new layout
 
-![Desktop Template](https://jcampbell18.github.io/design/Desktop%20-%20Template.png "Desktop Template")
+![Desktop Template](https://jcampbell18.github.io/version1/design/Desktop%20-%20Template.png "Desktop Template")
 
 ### Mock-up
 
 * inserted values according to the Design System
 * inserted images and text fillers to produce inspired vision of pre-final product
 
-![Desktop Pages](https://jcampbell18.github.io/design/Desktop%20-%20Pages.png "Desktop Pages")
+![Desktop Pages](https://jcampbell18.github.io/version1/design/Desktop%20-%20Pages.png "Desktop Pages")
 
 ### Code
 
