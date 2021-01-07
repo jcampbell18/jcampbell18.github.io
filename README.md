@@ -3,7 +3,8 @@
 A fresh update on my portfolio for potential employers
 
 - Previous Versions:
-    - [version 1.0](https://jcampbell18.github.io/version1/)
+    - [v1.0 Source Code](https://github.com/jcampbell18/web_portfolio-v1)
+    - [v1.0 Website](https://jcampbell18.github.io/web_portfolio-v1/)
 
 ## Dependencies
 
